@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b04896cb-2442-4997-9059-adf61c32aace" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/testes/.idea/Desafios/Pagina inicial-videos.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2tupmufuKhJM9xUvya5d6CH3nRU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Emojis e simbolos.html.executor": "Run",
+    "JavaScript Debug.Hierarquia de titulos.html.executor": "Run",
+    "JavaScript Debug.Imagens.html.executor": "Run",
+    "JavaScript Debug.Negrito e italico.html.executor": "Run",
+    "JavaScript Debug.Pagina inicial-videos.html.executor": "Run",
+    "JavaScript Debug.Testes.html.executor": "Run",
+    "JavaScript Debug.Tipos de caixas(box).html.executor": "Debug",
+    "JavaScript Debug.imagens.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/pedro/OneDrive/Área de Trabalho/Estudos de programaçaõ/HTML E CSS/testes/.idea",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\Área de Trabalho\Estudos de programaçaõ\HTML E CSS\testes\.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pedro\OneDrive\Área de Trabalho\Estudos de programaçaõ\HTML E CSS\testes\.idea\Teoria" />
+      <recent name="C:\Users\pedro\OneDrive\Área de Trabalho\Estudos de programaçaõ\HTML E CSS\testes\.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.25659.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b04896cb-2442-4997-9059-adf61c32aace" name="Changes" comment="" />
+      <created>1741211975678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741211975678</updated>
+      <workItem from="1741211976891" duration="2143000" />
+      <workItem from="1741291891837" duration="5150000" />
+      <workItem from="1741375912851" duration="5088000" />
+      <workItem from="1741381629422" duration="103000" />
+      <workItem from="1741898687004" duration="5728000" />
+      <workItem from="1742228702370" duration="5558000" />
+      <workItem from="1742246143594" duration="1734000" />
+      <workItem from="1742323393897" duration="6265000" />
+      <workItem from="1742402368798" duration="1014000" />
+      <workItem from="1742403492467" duration="3356000" />
+      <workItem from="1742488089814" duration="8152000" />
+      <workItem from="1742574132686" duration="8965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+
+@font-face {
+    font-family: 'Android';
+    src: url('../.idea/pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    font-weight: normal;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #84E1AD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: justify;
+    text-indent: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    line-height: 1em;
+}
+
+header {
+    background-image: linear-gradient(to top, #1A5C38, #3BD37F);
+    min-height: 150px;
+}
+
+header > h1 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 3em;
+
+}
+
+header > h2 {
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    padding-bottom: 20px;
+
+}
+
+nav {
+    background-color: #1A5C38;
+    padding: 10px;
+}
+
+nav > a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    transition-duration: 0.2s;
+}
+
+nav > a:hover {
+    background-color: green;
+}
+
+main {
+    background-color: white;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+}
+
+main img {
+    width: 100%;
+}
+
+main img.pequena {
+    display: block;
+    max-width: 350px;
+    margin: auto;
+}
+
+main h1 {
+    font-family: 'Android', cursive;
+    font-size: 2em;
+}
+
+main h2 {
+    font-family: 'Android', cursive;
+    font-size: 1.2em;
+    background-image: linear-gradient(to right, lightgreen, transparent);
+    text-indent: 8px;
+}
+
+div.video {
+    background-color: #1A5C38;
+    margin-bottom: 15px;
+    position: relative;
+    padding-bottom: 60%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
+}
+
+aside {
+    background-color: #abfac9;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+aside > ul {
+    list-style-position: inside;
+    columns: 2;
+}
+
+aside > h3 {
+    color: white;
+    background-color: #1A5C38;
+    margin: -10px -10px 0px -10px;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+footer > p {
+    text-align: center;
+    color: white;
+    background-color: #1A5C38;
+    margin: auto;
+    padding: 15px;
+}
